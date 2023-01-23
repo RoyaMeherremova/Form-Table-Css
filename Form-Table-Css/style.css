@@ -1,0 +1,149 @@
+/* 
+       span{
+        color:blue;
+       }
+       .second-text{
+        color:red;
+       }
+       .first-text{
+        background-color: aliceblue;
+       }
+       #test{
+        color:blueviolet;
+       }
+       .box1{
+        width:500px;
+        height:400px;
+        background-color:magenta ;
+       }
+       .box1 p{
+        color:white;
+       }
+       .box2{
+        width:500px;
+        height:400px;
+        background-color:magenta ;
+       }
+       .box2 p{
+        color:blue;
+       }
+       
+       .box3{
+        margin-top:10px;
+        width:500px;
+        height:400px;
+        background-color:magenta ;
+       }
+       .box3 a .link{
+        color: white;
+       }
+        */
+    
+     .box1{
+            background-color: white;
+          }
+      .box1 
+      {
+        margin-top:50px;
+        margin-left:200px;
+        margin-right:200px;
+        height:500px;
+
+      }
+
+      .box1 img
+      {
+        width:200px;
+        height:200px;
+      }
+
+      .box1 h1
+      {
+        margin-left:400px
+      }
+      
+     .box2{
+        background-color:brown;        
+      
+        height:300px;
+               
+     }
+     .box2 h1
+     {
+               
+        text-align: center;
+        padding: 50px;
+     }
+     .box3{
+        background-color: rgb(243, 177, 9);
+        height:300px;
+           }
+     .box3 .test{
+        color: green;
+        margin-left: 450px;
+
+     }
+     .box3 .top1{
+        color: green;
+        margin-left: 80px;
+        
+     }
+     .box3 .top2{
+        
+        
+        color: green;
+        margin-left: 80px;
+       
+     }
+     .box3 .top3{
+        color: green;
+        margin-left: 80px;
+        
+     }
+     .box3 .forstyle1{
+        color: brown;
+     }
+     .box3 .forstyle2{
+        color: brown;
+     }
+     .box4{
+        background-color:white; 
+        
+     }
+
+     .box4 
+     {
+        margin-top:50px;
+        margin-left:400px;
+        margin-right:400px;
+        height:600px;
+        
+     }
+     .box4 h1{
+        text-align: center;
+        padding: 50px;
+
+     }
+     .box4 label
+     {
+        margin-left: 10px;
+     }
+     .box4 input{
+        margin-left:10px;
+         width: 670px;
+     }
+     .box4 button{
+       width:100px;
+       height:30px;
+        color:white;
+        margin-left:300px;
+     }
+
+
+
+     
+          
+    
+          
+
+      
